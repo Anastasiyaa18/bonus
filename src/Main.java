@@ -3,8 +3,8 @@ public class Main {
     public static void main(String[] args) {
 
         int price = 13700;
-        int bonusru = 20;
-        int bonus = price / bonusru;
+        int bonusRu = 20;
+        int bonus = price / bonusRu;
 
         System.out.println("Бонусный баланс = " + bonus);
     }
